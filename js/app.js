@@ -2,65 +2,86 @@
     const list = [
       {
         id: 1,
-        url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_01_-_One.mp3",
-        author: "Genesis",
-        title: "One",
+        url: "https://www.alasyraices.gob.mx/audio/travesuras/TRAVESURAS-01.mp3",
+        author: "Paulo y Carola",
+        title: "Travesura I: 'Ciencia'",
         cover: "https://image.freepik.com/vector-gratis/fondo-color-pastel_19875-20.jpg"
       },
       {
         id: 2,
-        url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_02_-_Two.mp3",
-        author: "Genesis",
-        title: "Two",
+        url: "https://www.alasyraices.gob.mx/audio/travesuras/TRAVESURAS-02.mp3",
+        author: "Paulo y Carola",
+        title: "Travesura II: Verrugas",
         cover: "https://i.pinimg.com/originals/74/3b/64/743b643ef767a54284fcbbdf82dcc263.png"
       },
       {
         id: 3,
-        url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_03_-_Three.mp3",
-        author: "Genesis",
-        title: "Three",
+        url: "https://www.alasyraices.gob.mx/audio/travesuras/TRAVESURAS-03.mp3",
+        author: "Paulo y Carola",
+        title: "Travesura III: Migración",
         cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtOzWGzAz6g2C4MnfxlKz8w6RZ_CoiCWkG6d2PaZcGHVRKhDUm"
       },
       {
         id: 4,
-        url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_04_-_Four.mp3",
-        author: "Genesis",
-        title: "Four",
+        url: "https://www.alasyraices.gob.mx/audio/travesuras/TRAVESURAS-04.mp3",
+        author: "Paulo y Carola",
+        title: "Travesura IV: EVA",
         cover: "https://www.marketingdirecto.com/wp-content/uploads/2017/01/colores-tarjetas.jpg"
       },
       {
         id: 5,
-        url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_05_-_Five.mp3",
-        author: "Genesis",
-        title: "Five",
+        url: "https://www.alasyraices.gob.mx/audio/travesuras/TRAVESURAS-05.mp3",
+        author: "Paulo y Carola",
+        title: "Travesura V: La Luna",
         cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/L%C3%A1pices_de_colores_01.jpg/1200px-L%C3%A1pices_de_colores_01.jpg"
       },
       {
         id: 6,
-        url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_06_-_Six.mp3",
-        author: "Genesis",
-        title: "Six",
+        url: "https://www.alasyraices.gob.mx/audio/travesuras/TRAVESURAS-06.mp3",
+        author: "Paulo y Carola",
+        title: "Travesura VI: Dormir para crecer",
         cover: "https://s03.s3c.es/imag/_v0/770x420/d/d/2/iStock-870361774.jpg"
       },
       {
         id: 7,
-        url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_07_-_Seven.mp3",
-        author: "Genesis",
-        title: "Seven",
+        url: "https://www.alasyraices.gob.mx/audio/travesuras/TRAVESURAS-07.mp3",
+        author: "Paulo y Carola",
+        title: "Travesura VII: Hoyos negros",
         cover: "https://www.movilzona.es/app/uploads/2015/11/Colores.png"
       },
       {
         id: 8,
-        url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_08_-_Eight.mp3",
-        author: "Genesis",
-        title: "Eight",
+        url: "https://www.alasyraices.gob.mx/audio/travesuras/TRAVESURAS-08.mp3",
+        author: "Paulo y Carola",
+        title: "Travesura VIII: Plagas",
         cover: "https://www.tecnohotelnews.com/wp-content/uploads/2018/04/importancia-de-elegir-colores-en-la-estrategia-de-un-hotel.jpg"
       },
       {
         id: 9,
-        url: "http://cdn.atrera.com/audio/Marcel_Pequel_-_09_-_Nine.mp3",
-        author: "Genesis",
-        title: "Nine",
+        url: "https://www.alasyraices.gob.mx/audio/travesuras/TRAVESURAS-09.mp3",
+        author: "Paulo y Carola",
+        title: "Travesura IX: Cambio climatico",
+        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6GXRKcKDhp1_9BSfxCKOzGYsYkj6XRtN5xqTKwGvTIUM83-R5"
+      },
+      {
+        id: 10,
+        url: "https://www.alasyraices.gob.mx/audio/travesuras/TRAVESURAS-10.mp3",
+        author: "Paulo y Carola",
+        title: "Travesura X: Animales prehistoricos",
+        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6GXRKcKDhp1_9BSfxCKOzGYsYkj6XRtN5xqTKwGvTIUM83-R5"
+      },
+      {
+        id: 11,
+        url: "https://www.alasyraices.gob.mx/audio/travesuras/TRAVESURAS-11.mp3",
+        author: "Paulo y Carola",
+        title: "Travesura XI: Primates(I)",
+        cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6GXRKcKDhp1_9BSfxCKOzGYsYkj6XRtN5xqTKwGvTIUM83-R5"
+      },
+      {
+        id: 12,
+        url: "https://www.alasyraices.gob.mx/audio/travesuras/TRAVESURAS-12.mp3",
+        author: "Paulo y Carola",
+        title: "Travesura XII: Primates(II)",
         cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6GXRKcKDhp1_9BSfxCKOzGYsYkj6XRtN5xqTKwGvTIUM83-R5"
       }
     ];
